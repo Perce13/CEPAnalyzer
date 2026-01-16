@@ -1,0 +1,6 @@
+
+{
+  "name": "CEP Analyzer",
+  "description": "Visual scene analysis for Category Entry Points (CEPs) using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
